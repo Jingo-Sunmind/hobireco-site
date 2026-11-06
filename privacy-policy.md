@@ -66,7 +66,7 @@ permalink: /privacy-policy/
 本ポリシーや、本アプリでの情報の取り扱いについてのご質問は、次の連絡先までメールでお寄せください。
 
 - 運営者: ホビレコ運営
-- メール: [問い合わせ先メールアドレス]
+- メール: [hobireco.app@gmail.com](mailto:hobireco.app@gmail.com)
 
 ## 改定履歴
 

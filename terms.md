@@ -66,7 +66,7 @@ permalink: /terms/
 ## 10. お問い合わせ
 
 - 運営者: ホビレコ運営
-- メール: [問い合わせ先メールアドレス]
+- メール: [hobireco.app@gmail.com](mailto:hobireco.app@gmail.com)
 
 ## 改定履歴
 
