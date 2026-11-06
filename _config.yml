@@ -1,0 +1,9 @@
+# GitHub Pages（Jekyll）の設定。公開 URL: https://jingo-sunmind.github.io/hobireco-site/
+title: ホビレコ
+description: 趣味の台帳アプリ「ホビレコ」のプライバシーポリシー・利用規約・サポート
+lang: ja
+theme: jekyll-theme-primer
+url: https://jingo-sunmind.github.io
+baseurl: /hobireco-site
+exclude:
+  - README.md
